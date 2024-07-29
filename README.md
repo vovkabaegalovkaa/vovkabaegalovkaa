@@ -15,7 +15,7 @@
 ---
 
 :man_technologist: About Me :
-<br>I'm a twenty-year-old student of BSUR, who dreams of becoming a back-end developer.
+<br>I'm a twenty-year-old student of BSUR, who dreams of becoming a full-stack developer.
 - In my free time I practice my programming skills
 - I like to read various technical articles and learn new things
 - How to contact me: [![Linkedin Badge](https://img.shields.io/badge/-Vova-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-gotovko-b71457312/)
@@ -44,7 +44,7 @@ My experience:
 - С++ cursework (basic functions)
 - <a href="https://github.com/vovkabaegalovkaa/android-restaraunt">Andoid application cursework using Firebase technology</a>
 - <a href="https://github.com/vovkabaegalovkaa/kursWork_financeManager_TCP-IP">Desktop application cursework using MySql, TCP/IP technology</a>
-- At the moment I’m studying PHP, Laravel and React frameworks
+- At the moment I’m studying Laravel and Vue.js frameworks
 
 
 
